@@ -1,0 +1,26 @@
+[
+  {
+    "questionText": "Which of the following is NOT a valid data type in C#?",
+    "type": "multipleChoice",
+    "timeLimit": 15,
+    "answers": [
+      "int",
+      "string",
+      "float",
+      "char"
+    ],
+    "correctAnswer": "float"
+  },
+  {
+    "questionText": "In C#, to define a constant value, you should use the _____ keyword.",
+    "type": "fillInTheBlank",
+    "timeLimit": 10,
+    "correctAnswer": "const"
+  },
+  {
+    "questionText": "In C#, a class can inherit from multiple base classes.",
+    "type": "trueOrFalse",
+    "timeLimit": 10,
+    "correctAnswer": "false"
+  }
+]
